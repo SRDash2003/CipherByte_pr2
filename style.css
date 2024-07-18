@@ -1,4 +1,4 @@
-/* Reset default styles */
+/* Default styles */
 * {
     margin: 0;
     padding: 0;
@@ -34,12 +34,12 @@ body {
     padding: 30px;
 }
 
-/* Style your checkboxes */
+/* Styling of checkboxes */
 .task-checkbox {
     margin-right: 1px;
 }
 
-/* Style the Clear Completed button */
+/* Styling of Clear Completed button */
 #clear {
     background-color: #0074d9;
     color: #fff;
@@ -54,7 +54,7 @@ body {
     background-color: #1ed00e;
 }
 
-/* Style the Add Task button */
+/* Styling of Add Task button */
 #addTaskButton {
     background-color: #0074d9;
     color: #fff;
